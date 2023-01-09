@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="194.776" height="194.776" viewBox="0 0 194.776 194.776">
+  <g id="Group_12" data-name="Group 12" transform="translate(-1436 -129)">
+    <g id="play-button" transform="translate(1437 130)">
+      <g id="Group_2" data-name="Group 2">
+        <g id="Group_1" data-name="Group 1">
+          <path id="Path_1" data-name="Path 1" d="M96.388,0a96.388,96.388,0,1,0,96.388,96.388A96.5,96.5,0,0,0,96.388,0Zm0,184.743a88.356,88.356,0,1,1,88.356-88.356A88.456,88.456,0,0,1,96.388,184.743Z" stroke="#000" stroke-width="2"/>
+          <path id="Path_2" data-name="Path 2" d="M254.415,186.116l-56.226-36.145A4.016,4.016,0,0,0,192,153.348v72.291a4.015,4.015,0,0,0,6.189,3.377l56.226-36.145a4.015,4.015,0,0,0,0-6.754Zm-54.383,32.165V160.706l44.782,28.788Z" transform="translate(-119.709 -93.106)" stroke="#000" stroke-width="2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

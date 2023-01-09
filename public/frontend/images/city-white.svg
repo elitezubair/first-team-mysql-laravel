@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192.776" height="192.776" viewBox="0 0 192.776 192.776">
+  <g id="Group_7" data-name="Group 7" transform="translate(-1185.224 -727)">
+    <g id="Export-_Final---R1_" data-name="Export-(Final---R1)" transform="translate(1185.224 727)">
+      <g id="info">
+        <path id="circle" d="M96.388,0A96.388,96.388,0,1,1,0,96.388,96.388,96.388,0,0,1,96.388,0Zm0,13.77a82.618,82.618,0,1,0,82.618,82.618A82.618,82.618,0,0,0,96.388,13.77Z" fill="#fff"/>
+        <circle id="dot" cx="8.852" cy="8.852" r="8.852" transform="translate(89.503 42.293)" fill="#fff" stroke="#fff" stroke-width="1"/>
+        <path id="stroke" d="M83.454,95.629c8.606.417,8.606,13.333,0,13.749l-38.952.01a6.885,6.885,0,0,1-.378-13.759l12.932-.011V49.888h-8.85a6.885,6.885,0,0,1-6.875-6.507L41.321,43a6.885,6.885,0,0,1,6.507-6.875l.378-.01H63.943a6.885,6.885,0,0,1,6.875,6.507l.01.378,0,52.613Z" transform="translate(36.379 34.931)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

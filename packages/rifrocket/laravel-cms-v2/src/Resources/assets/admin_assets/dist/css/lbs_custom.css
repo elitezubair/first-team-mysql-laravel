@@ -1,0 +1,57 @@
+.lbs_page_title{
+    text-transform: capitalize;
+}
+.invalid-feedback {
+    display: block !important;
+    width: 100%;
+    margin-top: 0.25rem;
+    font-size: 80%;
+    color: #dc3545;
+}
+
+h3.card-title {
+    text-transform: uppercase;
+}
+
+.custom-media-search{
+    display: inline-block !important;
+    width: auto !important;
+}
+
+a.uppy-Dashboard-poweredBy {
+    display: none !important;
+}
+
+@media only screen and (min-width: 820px){
+    .uppy-Dashboard-inner {
+        height: 550px;
+        width: 100% !important;
+    }
+}
+
+.info-box.bg-light.lbs-image-lib.active{
+    border: solid 1px #240cdd !important;
+}
+
+.lbs-image-lib{
+    cursor: pointer;
+}
+.media-uploader-card{
+    box-shadow: none !important;
+}
+
+@media (min-width: 1200px){
+    .media-uploader-modal {
+        max-width: 95% !important;
+    }
+}
+
+@media (min-width: 576px){
+    .lbs-media-uploader-preview {
+        flex: 0 0 8.333333%;
+        max-width: 132.33333px !important;
+        min-width: 132.33333299999998px !important;
+    }
+}
+
+/* lbs-media-uploader-preview */

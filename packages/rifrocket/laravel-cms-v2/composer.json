@@ -1,0 +1,59 @@
+{
+    "name": "rifrocket/laravel-cms-v2",
+    "description": "Laravel CMS with livewire version 2",
+    "keywords": [
+        "rifrocket",
+        "laravel-cms-v2"
+    ],
+    "homepage": "https://github.com/rifrocket/laravel-cms-v2",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Mohammad Arif",
+            "email": "mohammad.arif9999@gmail.com",
+            "role": "master developer"
+
+        }
+    ],
+    "require": {
+        "php": "^7.4|^8.0",
+        "maatwebsite/excel": "^4.0",
+        "barryvdh/laravel-debugbar": "^3.5",
+        "livewire/livewire":"^2.10",
+        "intervention/image": "^2.7"
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Rifrocket\\LaravelCmsV2\\": "src"
+        },
+        "files": [
+            "src/Helpers/LbsCoreHelpers.php",
+            "src/Helpers/LbsMediaHelpers.php"
+        ]
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Rifrocket\\LaravelCmsV2\\Tests\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
+
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Rifrocket\\LaravelCmsV2\\Providers\\LaravelCmsV2ServiceProvider"
+            ],
+            "aliases": {
+                "LaravelCmsV2": "Rifrocket\\LaravelCmsV2\\Facades\\LaravelCmsV2Facade"
+            }
+        }
+    }
+}

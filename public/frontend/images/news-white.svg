@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="192.78" height="192.78" viewBox="0 0 192.78 192.78">
+  <defs>
+    <clipPath id="clip-black_4">
+      <rect width="192.78" height="192.78"/>
+    </clipPath>
+  </defs>
+  <g id="black_4" data-name="black – 4" clip-path="url(#clip-black_4)">
+    <g id="news" transform="translate(1.5 1.5)">
+      <path id="Path_39" data-name="Path 39" d="M184.508,0H36.9A5.273,5.273,0,0,0,31.63,5.272V31.63H5.272A5.273,5.273,0,0,0,0,36.9v131.79A21.111,21.111,0,0,0,21.087,189.78H163.422a26.386,26.386,0,0,0,26.358-26.358V5.272A5.273,5.273,0,0,0,184.508,0ZM10.543,168.693V42.173H31.63v126.52a10.544,10.544,0,1,1-21.087,0Zm168.695-5.27a15.833,15.833,0,0,1-15.815,15.815H39.24a20.843,20.843,0,0,0,2.932-10.545V10.543H179.237Zm0,0" transform="translate(0 0)" fill="#fff"/>
+      <path id="Path_40" data-name="Path 40" d="M133.272,74.543h84.345a5.271,5.271,0,1,0,0-10.543H133.272a5.271,5.271,0,1,0,0,10.543Zm0,0" transform="translate(-64.74 -32.37)" fill="#fff"/>
+      <path id="Path_41" data-name="Path 41" d="M133.272,138.543h84.345a5.271,5.271,0,1,0,0-10.543H133.272a5.271,5.271,0,1,0,0,10.543Zm0,0" transform="translate(-64.74 -64.74)" fill="#fff"/>
+      <path id="Path_42" data-name="Path 42" d="M133.272,202.543h84.345a5.271,5.271,0,1,0,0-10.543H133.272a5.271,5.271,0,1,0,0,10.543Zm0,0" transform="translate(-64.74 -97.11)" fill="#fff"/>
+      <path id="Path_43" data-name="Path 43" d="M133.272,266.543h84.345a5.271,5.271,0,1,0,0-10.543H133.272a5.271,5.271,0,1,0,0,10.543Zm0,0" transform="translate(-64.74 -129.48)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

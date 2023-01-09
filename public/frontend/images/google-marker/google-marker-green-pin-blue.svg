@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="9" viewBox="0 0 20 9">
+  <defs>
+    <filter id="Polygon_1" x="5" y="4" width="10" height="9" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.42"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Drop_pin_2">
+      <rect width="20" height="9"/>
+    </clipPath>
+  </defs>
+  <g id="Drop_pin_2" data-name="Drop pin 2" clip-path="url(#clip-Drop_pin_2)">
+    <g id="Group_5" data-name="Group 5" transform="translate(-294 -525)">
+      <g id="Group_3" data-name="Group 3" transform="translate(1 21)">
+        <g id="Group_2" data-name="Group 2">
+          <g id="Group_4" data-name="Group 4">
+            <g transform="matrix(1, 0, 0, 1, 293, 504)" filter="url(#Polygon_1)">
+              <path id="Polygon_1-2" data-name="Polygon 1" d="M1.834.25a.2.2,0,0,1,.333,0L3.793,2.689A.2.2,0,0,1,3.626,3H.374a.2.2,0,0,1-.166-.311Z" transform="translate(12 8) rotate(180)" fill="#06aff1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="16" height="5" rx="2.5" transform="translate(296 526)" fill="#06aff1"/>
+    </g>
+    <text id="_1.6M" data-name="" transform="translate(7 4)" fill="#fff" font-size="2" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0"></tspan>343344</text>
+  </g>
+</svg>
